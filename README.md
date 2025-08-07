@@ -41,10 +41,11 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AnituA"><img src="https://github-readme-stats.vercel.app/api?username=AnitusA&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnitusA's GitHub stats" /></a>
-
+<!--
 <a href="http://www.github.com/AnitusA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnitusA&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/AnitusA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnitusA&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
+-->
 <a href="http://www.github.com/Anitus"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Anitus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnitusA&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
