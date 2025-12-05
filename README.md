@@ -41,7 +41,7 @@
 <a href="https://www.instagram.com/a.anitus?igsh=ZDRkYTUzZ2F3ZXFv" target="_black" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/lollipop/48/instagram-new.png" /> <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/lollipop/48/instagram-new.png" /> <img width="50" height="50" src="https://img.icons8.com/lollipop/48/instagram-new.png" /> </picture> </a></p>
 ### My GitHub Stats
 
-<a href="http://www.github.com/AnituA"><img src="https://github-readme-stats.vercel.app/api?username=AnitusA&show_icons=true&hide=&count_private=true&title_color=00fbff&&text_color=00fbff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnitusA's GitHub stats" /></a>
+<a href="http://www.github.com/AnitusA"><img src="https://github-readme-stats.vercel.app/api?username=AnitusA&show_icons=true&hide=&count_private=true&title_color=00fbff&&text_color=00fbff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnitusA's GitHub stats" /></a>
 
 
 <a href="http://www.github.com/AnitusA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnitusA&stroke=00fbff&background=1c1917&ring=00fbff&fire=00fbff&currStreakNum=00fbff&currStreakLabel=00fbff&sideNums=00fbff&sideLabels=00fbff&dates=00fbff&hide_border=true" alt="streak" /></a>
