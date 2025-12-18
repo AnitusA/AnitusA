@@ -1,10 +1,14 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Anitus #
-
 ------
 
 - 🌍 I'm based in Kanniyakumari, Tamil Nadu
 - ✉️ You can contact me at [anitus2006ajr@gmail.com](mailto:anitus2006ajr@gmail.com)
 - My portfolio [for you 🫵 ](https://anitusa.github.io/Anitus-portfolio/)
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FBFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Always+Learning+%F0%9F%9A%80" />
+</h1>
 
 ### Skills
 
@@ -35,5 +39,6 @@
 | GitHub Activity Graph |
 |-------------------------|
 | <p align="center"><a href="https://github.com/AnitusA"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=1c1917&color=00fbff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a></p> |
+
 
 
