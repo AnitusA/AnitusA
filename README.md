@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FBFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Always+Learning+%F0%9F%9A%80" />
 </h1>
 
-### Skills
+## Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&color=orange)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=000000)
@@ -25,12 +25,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=grey)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-### Socials
+## Socials
 
 <p align="center">
 <a href="https://github.com/AnitusA"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a><a href="https://www.linkedin.com/in/aanitus"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a><a href="mailto:anitus2006ajr@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/></a><a href="https://leetcode.com/Anitus"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=ffffff"/></a><a href="https://www.instagram.com/a.anitus"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
 </p>
+
+## Growth
 
 | GitHub Stats | Streak Stats |
 |-------------|--------------|
