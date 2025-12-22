@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=I'm%20Anitus&fontColor=00FBFF&fontSize=58&animation=twinkling" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FBFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Crafting+Clean+UI+%26+Solid+Logic;Java+%7C+React+%7C+Node.js;Consistency+%3E+Motivation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FBFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Crafting+Clean+UI+%26+Solid+Logic;Java+%7C+React+%7C+Node.js;Fast+learner;Consistency+%3E+Motivation" />
 </p>
 <p align="center">
   <i>Always Learning • Always Building</i>
