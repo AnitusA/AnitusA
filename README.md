@@ -18,7 +18,6 @@
 - 📍 Based in **Kanniyakumari, Tamil Nadu**
 - 🎓 Student at **Stella Marys College of Engineering**
 - 💻 Passionate about **Web Development & System Design**
-- 🚀 Currently building real-world projects with **React, Remix & Supabase**
 - 📈 Currently intrested in learning **Cloud Computing**
 - 📫 Reach me at: **[anitus2006ajr@gmail.com](mailto:anitus2006ajr@gmail.com)**
 
