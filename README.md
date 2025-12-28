@@ -86,7 +86,6 @@
 
 > **"Consistency beats talent when talent doesn’t work consistently."**
 
----
 
 ⭐ *If you like my work, consider giving a star to my repositories!*  
 <p align="center">
