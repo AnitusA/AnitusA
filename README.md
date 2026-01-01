@@ -72,7 +72,7 @@
 
 ## 📈 Growth & Stats  
 
-<table> <tr><td> <img src="https://github-readme-stats.vercel.app/api?username=AnitusA&show_icons=true&count_private=true&bg_color=0d1117&title_color=00fbff&text_color=00fbff&icon_color=14b8a6&hide_border=true"/> </td> <td> <img src="https://nirzak-streak-stats.vercel.app/?user=AnitusA&background=0d1117&ring=00fbff&fire=00fbff&currStreakNum=00fbff&currStreakLabel=00fbff&sideNums=00fbff&sideLabels=00fbff&dates=00fbff&hide_border=true"/> </td> </tr> </table>
+<table> <tr><td> <!--<img src="https://github-readme-stats.vercel.app/api?username=AnitusA&show_icons=true&count_private=true&bg_color=0d1117&title_color=00fbff&text_color=00fbff&icon_color=14b8a6&hide_border=true"/> </td> --> <td> <img src="https://nirzak-streak-stats.vercel.app/?user=AnitusA&background=0d1117&ring=00fbff&fire=00fbff&currStreakNum=00fbff&currStreakLabel=00fbff&sideNums=00fbff&sideLabels=00fbff&dates=00fbff&hide_border=true"/> </td> </tr> </table>
 
 ---
 
