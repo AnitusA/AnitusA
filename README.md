@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FBFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Crafting+Clean+UI+%26+Solid+Logic;Java+%7C+React+%7C+Node.js;Fast+learner;Consistency+%3E" />
 </p>
+
+---
+
 <p align="center">
   <i>Always Learning • Always Building</i>
 </p>
