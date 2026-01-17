@@ -30,8 +30,6 @@
 
 ## 🛠️ Tech Stack
 
----
-
 ### 🚀 Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
