@@ -22,8 +22,6 @@
 - 📈 Currently intrested in learning **Cloud Computing**
 - 📫 Reach me at: **[anitus2006ajr@gmail.com](mailto:anitus2006ajr@gmail.com)**
 
----
-
 🔗 **Portfolio:**  
 👉 [https://anitusa.github.io/Anitus-portfolio/](https://anitusa.github.io/Anitus-portfolio/)
 
