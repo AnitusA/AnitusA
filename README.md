@@ -27,6 +27,7 @@
 🔗 **Portfolio:**  
 👉 [https://anitusa.github.io/Anitus-portfolio/](https://anitus-portfolio.vercel.app/)
 
+---
 
 ## 🛠️ Tech Stack
 
