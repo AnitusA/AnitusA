@@ -25,7 +25,7 @@
 ---
 
 🔗 **Portfolio:**  
-👉 [https://anitusa.github.io/Anitus-portfolio/](https://anitus-portfolio.vercel.app/)
+👉 [Click here to see my portfolio !!](https://anitus-portfolio.vercel.app/)
 
 ---
 
