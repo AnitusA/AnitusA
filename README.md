@@ -29,6 +29,7 @@
 ---
 
 ## 🛠️ Tech Stack
+---
 
 ### 🚀 Languages & Frameworks
 <p>
