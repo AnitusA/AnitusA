@@ -56,8 +56,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code"/>
 </p>
 
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
