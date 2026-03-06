@@ -24,10 +24,7 @@
 🔗 **Portfolio:**  
 👉 [Click here to see my portfolio !!](https://anitus-portfolio.vercel.app/)
 
----
-
 ## 🛠️ Tech Stack
----
 
 ### 🚀 Languages & Frameworks
 <p>
