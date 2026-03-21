@@ -14,6 +14,7 @@
 
 
 ## 🌍 About Me  
+---
 
 - 📍 Based in **Kanniyakumari, Tamil Nadu**
 - 🎓 Student at **Stella Marys College of Engineering**
