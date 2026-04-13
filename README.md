@@ -60,10 +60,10 @@
 </p>
 
 
-## 📈 Growth & Stats  
+<!--## 📈 Growth & Stats  
 
 <table> <tr><td> <img src="https://github-readme-stats.vercel.app/api?username=AnitusA&show_icons=true&count_private=true&bg_color=0d1117&title_color=00fbff&text_color=00fbff&icon_color=14b8a6&hide_border=true"/> </td> <td> <img src="https://nirzak-streak-stats.vercel.app/?user=AnitusA&background=0d1117&ring=00fbff&fire=00fbff&currStreakNum=00fbff&currStreakLabel=00fbff&sideNums=00fbff&sideLabels=00fbff&dates=00fbff&hide_border=true"/> </td> </tr> </table>
-
+-->
 
 
 ## 🔥 GitHub Activity  
@@ -80,7 +80,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Thank%20you&fontColor=00FBFF&fontSize=58&animation=twinkling" />
 </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:00FBFF&height=120&section=footer"/> </p>
----
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=9AE6FF&line=00FBFF&point=14b8a6&area=true&area_color=0a2a2f&hide_border=true&custom_title=Anitus%20%7C%20Contribution%20Flow" />
 
 
