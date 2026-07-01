@@ -10,7 +10,7 @@
 <p align="center">
   <i>Always Learning • Always Building</i>
 </p>
-
+---
 ## 🌍 About Me 
 
 - 📍 Based in **Kanniyakumari, Tamil Nadu**
