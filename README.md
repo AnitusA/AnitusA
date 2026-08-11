@@ -64,6 +64,7 @@
   <a href="https://www.instagram.com/a.anitus"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram"/></a>
 </p>
 
+---
 
 ## 🔥 GitHub Activity  
 
