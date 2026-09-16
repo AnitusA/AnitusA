@@ -66,7 +66,7 @@
 ---
 
 ## 🔥 GitHub Activity  
-
+---
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=00fbff&line=14b8a6&point=ffffff&area=true&hide_border=true" /> </p>
 
 ## ✨ Quote I Live By  
