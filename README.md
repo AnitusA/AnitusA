@@ -65,7 +65,7 @@
 
 ---
 
-## 🔥 GitHub Activity  
+<!--## 🔥 GitHub Activity  -->>
 ---
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=00fbff&line=14b8a6&point=ffffff&area=true&hide_border=true" /> </p>
 
@@ -79,7 +79,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Thank%20you&fontColor=00FBFF&fontSize=58&animation=twinkling" />
 </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:00FBFF&height=120&section=footer"/> </p>
-<!--\\<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=9AE6FF&line=00FBFF&point=14b8a6&area=true&area_color=0a2a2f&hide_border=true&custom_title=Anitus%20%7C%20Contribution%20Flow" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=9AE6FF&line=00FBFF&point=14b8a6&area=true&area_color=0a2a2f&hide_border=true&custom_title=Anitus%20%7C%20Contribution%20Flow" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0b0f1a&color=orange&line=38bdf8&point=f472b6&area=true&area_color=1e293b&hide_border=true&custom_title=Code%20Across%20Time" />
 
