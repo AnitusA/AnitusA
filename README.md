@@ -11,8 +11,6 @@
   <i>Always Learning • Always Building</i>
 </p>
 
----
-
 ## 🌍 About Me 
 
 - 📍 Based in **Kanniyakumari, Tamil Nadu**
@@ -51,32 +49,24 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code"/>
 </p>
----
+
 ## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/AnitusA"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
   <a href="https://www.linkedin.com/in/aanitus"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:anitus2006ajr@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://leetcode.com/Anitus"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode"/></a>
   <a href="https://www.instagram.com/a.anitus"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram"/></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=00fbff&line=14b8a6&point=ffffff&area=true&hide_border=true" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=00fbff&line=14b8a6&point=ffffff&area=true&hide_border=true"/> </p> -->
 
 ## ✨ Quote I Live By  
 
 > **"Consistency beats talent when talent doesn’t work consistently."**
+⭐ *If you like my work, consider giving a star to my repositories!*
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Thank%20you&fontColor=00FBFF&fontSize=58&animation=twinkling" />
 </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:00FBFF&height=120&section=footer"/> </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=9AE6FF&line=00FBFF&point=14b8a6&area=true&area_color=0a2a2f&hide_border=true&custom_title=Anitus%20%7C%20Contribution%20Flow" />
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0b0f1a&color=orange&line=38bdf8&point=f472b6&area=true&area_color=1e293b&hide_border=true&custom_title=Code%20Across%20Time" />--!>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=ffffff00&color=94a3b8&line=0ea5e9&point=0284c7&area=false&hide_border=true&custom_title=Consistency%20Over%20Time" />
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:00FBFF&height=120&section=footer"/></p>
