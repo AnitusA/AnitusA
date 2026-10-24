@@ -62,16 +62,11 @@
   <a href="https://www.instagram.com/a.anitus"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram"/></a>
 </p>
 
----
-
-<!--## 🔥 GitHub Activity  -->>
----
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnitusA&bg_color=0d1117&color=00fbff&line=14b8a6&point=ffffff&area=true&hide_border=true" /> </p>
 
 ## ✨ Quote I Live By  
 
 > **"Consistency beats talent when talent doesn’t work consistently."**
----
 
 ⭐ *If you like my work, consider giving a star to my repositories!*  
 <p align="center">
